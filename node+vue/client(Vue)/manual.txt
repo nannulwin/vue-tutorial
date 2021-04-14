@@ -1,0 +1,11 @@
+﻿npm install sass-loader --save-dev
+npm install --save-dev node-sass
+npm install vue-tables-2
+npm install moment
+
+port change config file
+config/index.js
+
+
+
+https://learninglaravel.net/topics/vuejs

@@ -1,0 +1,10 @@
+﻿Installing Node modules
+npm install
+
+Running Server
+
+port=3001 npm start
+
+Running Client Vue JS
+
+npm run dev

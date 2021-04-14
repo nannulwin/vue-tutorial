@@ -1,0 +1,27 @@
+{
+  "name": "react-backend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "gulp"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.3",
+    "joi": "^10.6.0",
+    "joi-date-extensions": "^1.0.2",
+    "jsonwebtoken": "^7.4.1",
+    "mysql": "^2.13.0",
+    "winston": "^2.3.1",
+    "md5": "^2.2.1"
+  },
+  "devDependencies": {
+    "express": "^4.15.3",
+    "gulp": "^3.9.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-notify": "^3.0.0"
+  }
+}
